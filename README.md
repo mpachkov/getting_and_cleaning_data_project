@@ -40,7 +40,7 @@ Resulting file "tidy_data.txt" will be saved in /home/user/tmp.
 Let's say you want to run and save results in different directory /home/user/tmp2. In this case run as following:
 
 cd /home/user/tmp2
-Rscript run_analysis.R /home/user/tmp
+Rscript run_analysis.R '/home/user/tmp/UCI HAR Dataset'
 
 Resulting file "tidy_data.txt" will be saved in /home/user/tmp2.
 
