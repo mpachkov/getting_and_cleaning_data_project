@@ -45,4 +45,4 @@ Rscript run_analysis.R '/home/user/tmp/UCI HAR Dataset'
 Resulting file "tidy_data.txt" will be saved in /home/user/tmp2.
 
 ### Additional Information
-You can find additional information about the variables, data and transformations in the CodeBook.MD file.
+You can find additional information about the variables, data and transformations in the CodeBook.md file.
