@@ -50,4 +50,4 @@ Resulting file "tidy_data.txt" will be saved in /home/user/tmp2.
 
 ### Additional Information
 
-*You can find additional information about the variables, data and processing in the CodeBook.md file.*
+**You can find additional information about the variables, data and processing in the CodeBook.md file.**
