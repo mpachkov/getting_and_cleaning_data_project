@@ -21,10 +21,14 @@ You should create one R script called run_analysis.R that does the following.
 ### Usage
 
 You have to download and unzip dataset yourself. Download link https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
 You will get directory "UCI HAR Dataset". 
 
 You have to download the analysis script. For that you can use the following command:
+```
 git clone https://github.com/mpachkov/getting_and_cleaning_data_project.git
+```
+
 The script is located in directory getting_and_cleaning_data_project in your current working directory.
 
 Data is processed with script "run_analysis.R". This script accept as argument path to "UCI HAR Dataset" directory. If no argument given then it is assumed that "UCI HAR Dataset" directory is in current working directory.
@@ -45,4 +49,5 @@ Rscript run_analysis.R '/home/user/tmp/UCI HAR Dataset'
 Resulting file "tidy_data.txt" will be saved in /home/user/tmp2.
 
 ### Additional Information
-You can find additional information about the variables, data and transformations in the CodeBook.md file.
+
+*You can find additional information about the variables, data and processing in the CodeBook.md file.*
